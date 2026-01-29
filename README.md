@@ -27,4 +27,8 @@
 13) Google Trends https://colab.research.google.com/drive/1XY-PlfM9YOOF2gGxW7bLoanXlxaGMRo3#scrollTo=yHCvtF5v-L-y
 
 
+#EXTRA
+Sephora Veri Seti https://www.kaggle.com/code/senaakkanat/vbg-sephora-cal-sma
+
+
     
