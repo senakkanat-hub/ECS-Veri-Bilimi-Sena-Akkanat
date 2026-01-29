@@ -20,5 +20,9 @@
 
 10) Image Slider https://colab.research.google.com/drive/1u2_zohS4z0EtS5CyzBBOvcVbC7P5lDZw#scrollTo=8WMAmZvkvK7J
 
+11) Image Downloader https://colab.research.google.com/drive/1nsQwzTp3fvonezqiJZh05vLBFx5ZRbc_#scrollTo=202a4dce
+
+12) GEMINI API ChatBot https://colab.research.google.com/drive/1dnZEa3KYUQngQumk9rBjO8XSnXv1GBAA#scrollTo=07b6KH6l6X8q
+
 
     
