@@ -24,5 +24,7 @@
 
 12) GEMINI API ChatBot https://colab.research.google.com/drive/1dnZEa3KYUQngQumk9rBjO8XSnXv1GBAA#scrollTo=07b6KH6l6X8q
 
+13) Google Trends https://colab.research.google.com/drive/1XY-PlfM9YOOF2gGxW7bLoanXlxaGMRo3#scrollTo=yHCvtF5v-L-y
+
 
     
