@@ -1,4 +1,4 @@
-# Çalışmalar
+# Veri Analizi Çalısmaları
 
 1) Kişisel Web Sitesi https://senakkanat-hub.github.io/ornekweb/
 
