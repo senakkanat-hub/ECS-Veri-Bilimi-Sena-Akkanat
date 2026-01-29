@@ -1,11 +1,24 @@
 # Çalışmalarım
-Kişisel Web Sitesi https://senakkanat-hub.github.io/ornekweb/
-AI-BI Yapay Zeka ile İş Analitiği https://colab.research.google.com/drive/1GQ-L2cho4SBkuTeuYsUdI5GdOkHVSO2R
-Python Temelleri https://colab.research.google.com/drive/1qvMWegWJHjOiJBoGtQ2kamqXb1ZKYmBc
-Veri Bilimine Giriş https://colab.research.google.com/drive/1v0rLDiF-h7f_ALRin1AZfEfjSs1c_DLU#scrollTo=qRcnsFS_WCeu
-Titanic https://www.kaggle.com/code/senaakkanat/vb-titanic
-Arac Tahmini https://colab.research.google.com/drive/15198HyPqcFR5zGfYw4LRmozwGOTp6DdF#scrollTo=mtOZHkePm73j
-Veri Cekme https://colab.research.google.com/drive/1b3fIzkolL2WRIqfaQlpoN0JRtNyj8yTk
-Yarısan Grafikler https://colab.research.google.com/drive/1J4aAeMjXI5D27OcA6frFrW-2qxpaBkF8
-HF Uygulaması
-Image Slider 
+
+1) Kişisel Web Sitesi https://senakkanat-hub.github.io/ornekweb/
+
+2) AI-BI Yapay Zeka ile İş Analitiği https://colab.research.google.com/drive/1GQ-L2cho4SBkuTeuYsUdI5GdOkHVSO2R
+
+3) Python Temelleri https://colab.research.google.com/drive/1qvMWegWJHjOiJBoGtQ2kamqXb1ZKYmBc
+
+4) Veri Bilimine Giriş https://colab.research.google.com/drive/1v0rLDiF-h7f_ALRin1AZfEfjSs1c_DLU#scrollTo=qRcnsFS_WCeu
+
+5) Titanic https://www.kaggle.com/code/senaakkanat/vb-titanic
+
+6) Arac Tahmini https://colab.research.google.com/drive/15198HyPqcFR5zGfYw4LRmozwGOTp6DdF#scrollTo=mtOZHkePm73j
+
+7) Veri Cekme https://colab.research.google.com/drive/1b3fIzkolL2WRIqfaQlpoN0JRtNyj8yTk
+
+8) Yarısan Grafikler https://colab.research.google.com/drive/1J4aAeMjXI5D27OcA6frFrW-2qxpaBkF8
+
+9) HF Uygulaması
+
+10) Image Slider https://colab.research.google.com/drive/1u2_zohS4z0EtS5CyzBBOvcVbC7P5lDZw#scrollTo=8WMAmZvkvK7J
+
+
+    
