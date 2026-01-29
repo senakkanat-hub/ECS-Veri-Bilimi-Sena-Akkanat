@@ -1,4 +1,4 @@
-# Çalışmalarım
+# Çalışmalar
 
 1) Kişisel Web Sitesi https://senakkanat-hub.github.io/ornekweb/
 
@@ -27,7 +27,8 @@
 13) Google Trends https://colab.research.google.com/drive/1XY-PlfM9YOOF2gGxW7bLoanXlxaGMRo3#scrollTo=yHCvtF5v-L-y
 
 
-#EXTRA
+EXTRA
+
 Sephora Veri Seti https://www.kaggle.com/code/senaakkanat/vbg-sephora-cal-sma
 
 
