@@ -28,6 +28,8 @@
 
 14) Google Trends https://colab.research.google.com/drive/1XY-PlfM9YOOF2gGxW7bLoanXlxaGMRo3#scrollTo=yHCvtF5v-L-y
 
+15) Google AI Studio Uygulaması https://aistudio.google.com/apps/drive/1ITlK810cqc5Y80pefI0X3LIF4sap1Qa3?showPreview=true&showAssistant=true
+
 
 
 EXTRA
